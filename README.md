@@ -19,8 +19,11 @@ The way of feature extract is from the usecase of lookup table approach.
 Lookup table include - All the position of a person to exist with in a frame
 
 Features of lookup table
+
           - Distance (Person to camera)
+          
           - x Axis location of the person (on ground level)
+          
           - y Axis location of the person (on ground level)
 
 Distance of the person is found using the formula - ((Height of person * focal lenght) / Bounding box height)
