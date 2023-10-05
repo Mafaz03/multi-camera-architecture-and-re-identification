@@ -33,8 +33,11 @@ After finding distance x axis Location and y axis Location is matched with relav
 ## Step 4: Person Re-Identification Model
 
 ORB similarities from opencv library was utilised.
+
 Each person is verified from the saved image folder of people that used to be in the frame for a threshold amount of time.
+
 If the similarities lies above the threshold value then the person is reidentfied from the saved person photo and new image of the person is saved to be refered later.
+
 If the similarities lies below the threshold value then the person is identified as a new person and thier image is saved to be refered later.
 
 ## Step 5: Visualization and Demonstration
