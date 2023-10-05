@@ -44,4 +44,4 @@ If the similarities lies below the threshold value then the person is identified
 
 ## Step 5: Visualization and Demonstration
 
-Relavent Visualization and Demonstration is provided in this repository in "Final_render.mp4" and rest of the .ipynb file.
+Relavent Visualization and Demonstration is provided in this repository in "Final render dashboard" and rest of the .ipynb file.
