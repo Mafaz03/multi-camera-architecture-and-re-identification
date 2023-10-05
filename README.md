@@ -12,6 +12,8 @@ Simulation were created for this project and the results extracted were from thi
 
 YOLO was used to detect person from frame to frame
 
+If persons identified are within a threshold proximity and the ORB similarity is above a threshold (Step 4) then both persons are considered as one.
+
 
 ## Step 3: Feature Extraction
 
